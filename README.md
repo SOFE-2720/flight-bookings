@@ -6,13 +6,6 @@ Principles of Software and Requirements Engineering - SOFE2720
 April 12th, 2021
 
 
-Group#37
-
-Karanvir Bhogal - 100748973
-
-Zain Ul abideen - 100748732
-
-
 Introduction
 
 A new flight booking website called OTU Flights is looking to start development on their product. To ensure a smooth execution of the production, stakeholders are asked to discuss the needs and requirements before production begins. 
@@ -25,4 +18,4 @@ OTU Flights is a website that will make booking domestic flights easier and fast
 
 How to Run the Website
 
-To run the website, you need to download the flight-page code, home-page-html, home-page-css, and the Images folder. Put all the files into one location and then you can access the web pages from there.
+To run the website, you need to download the flightpage.html code, mainpage.html, style.css, and the Images folder. Put all the files into one location and then you can access the web pages from there.
