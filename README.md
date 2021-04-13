@@ -3,9 +3,7 @@ Flight booking repository
 
 Principles of Software and Requirements Engineering - SOFE2720
 
-Dr. Anwar Abdalbari
-
-February 9th, 2021
+April 12th, 2021
 
 
 Group#37
